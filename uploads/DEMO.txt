@@ -1,0 +1,1 @@
+This `uploads` folder is where the files that needs to be scan will be stored
