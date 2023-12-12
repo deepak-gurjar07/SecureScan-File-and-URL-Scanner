@@ -17,7 +17,7 @@ SecureScan was created to address a key issue in cybersecurity – the demand fo
 
 1. Clone the repository.
 2. Install dependencies using `pip install -r requirements.txt`.
-3. Run the application with `python app.py`.
+3. Run the application with `python main.py`.
 4. Access the application at `http://localhost:5000` in your web browser.
 
 ## Contribution
